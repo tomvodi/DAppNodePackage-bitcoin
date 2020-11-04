@@ -1,6 +1,6 @@
 version: '3.4'
 services:
-  bitcoin.dnp.dappnode.eth:
+  bitcoinwalletnode.dnp.dappnode.eth:
     image: 'bitcoinwalletnode.dnp.dappnode.eth:0.1.0'
     build: ./build
     volumes:
