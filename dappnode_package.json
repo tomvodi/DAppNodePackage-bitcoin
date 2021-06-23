@@ -1,7 +1,7 @@
 {
   "name": "bitcoinwalletnode.dnp.dappnode.eth",
   "version": "0.1.1",
-  "upstreamVersion": "0.21.0",
+  "upstreamVersion": "0.21.1",
   "shortDescription": "Support the Bitcoin network, run your own node with wallet",
   "description": "The Bitcoin Core daemon. Bitcoind is a program that implements the Bitcoin protocol for remote procedure call (RPC) use.",
   "type": "service",
