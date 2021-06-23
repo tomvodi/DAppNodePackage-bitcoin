@@ -49,6 +49,9 @@ printtoconsole=${BTC_PRINTTOCONSOLE:-1}
 # We probably don't want a wallet.
 disablewallet=${BTC_DISABLEWALLET:-1}
 
+# Enable Compact Block Filters
+blockfilterindex=1
+
 # Enable an on-disk txn index. Allows use of getrawtransaction for txns not in
 # mempool.
 txindex=${BTC_TXINDEX:-0}
